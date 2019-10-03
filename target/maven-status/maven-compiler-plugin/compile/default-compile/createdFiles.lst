@@ -1,0 +1,7 @@
+com/sadik/springbacth/FileDeletingTasklet.class
+com/sadik/springbacth/Person.class
+com/sadik/springbacth/BatchConfiguration.class
+com/sadik/springbacth/JobCompletionNotificationListener.class
+com/sadik/springbacth/PersonItemProcessor.class
+com/sadik/springbacth/BatchProcessingApplication.class
+com/sadik/springbacth/BatchConfiguration$1.class
